@@ -1,0 +1,1329 @@
+Updates 10, num timesteps 13200, FPS 423
+ Last 7 training episodes: mean/median reward 0.14/0.00, min/max reward 0.00/0.97, success rate 0.14
+
+Updates 20, num timesteps 25200, FPS 434
+ Last 13 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.97, success rate 0.08
+
+Updates 30, num timesteps 37200, FPS 436
+ Last 24 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.97, success rate 0.04
+
+Updates 40, num timesteps 49200, FPS 436
+ Last 31 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.97, success rate 0.03
+
+Updates 50, num timesteps 61200, FPS 435
+ Last 38 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 60, num timesteps 73200, FPS 437
+ Last 44 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 70, num timesteps 85200, FPS 436
+ Last 56 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 80, num timesteps 97200, FPS 422
+ Last 62 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 90, num timesteps 109200, FPS 424
+ Last 68 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+ 
+
+Updates 100, num timesteps 121200, FPS 423
+ Last 79 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 110, num timesteps 133200, FPS 423
+ Last 86 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 120, num timesteps 145200, FPS 424
+ Last 92 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 130, num timesteps 157200, FPS 421
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 140, num timesteps 169200, FPS 421
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 150, num timesteps 181200, FPS 421
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 160, num timesteps 193200, FPS 424
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 170, num timesteps 205200, FPS 426
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 180, num timesteps 217200, FPS 429
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.91, success rate 0.04
+
+Updates 190, num timesteps 229200, FPS 432
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.91, success rate 0.05
+
+ 
+
+Updates 200, num timesteps 241200, FPS 434
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.91, success rate 0.04
+
+Updates 210, num timesteps 253200, FPS 436
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 220, num timesteps 265200, FPS 438
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 230, num timesteps 277200, FPS 439
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 240, num timesteps 289200, FPS 441
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 250, num timesteps 301200, FPS 442
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 260, num timesteps 313200, FPS 443
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.04
+
+Updates 270, num timesteps 325200, FPS 444
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.04
+
+Updates 280, num timesteps 337200, FPS 444
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.04
+
+Updates 290, num timesteps 349200, FPS 446
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.93, success rate 0.03
+
+ 
+
+Updates 300, num timesteps 361200, FPS 446
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.93, success rate 0.02
+
+Updates 310, num timesteps 373200, FPS 447
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.93, success rate 0.02
+
+Updates 320, num timesteps 385200, FPS 448
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.93, success rate 0.02
+
+Updates 330, num timesteps 397200, FPS 449
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/0.86, success rate 0.01
+
+Updates 340, num timesteps 409200, FPS 449
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.89, success rate 0.02
+
+Updates 350, num timesteps 421200, FPS 450
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+Updates 360, num timesteps 433200, FPS 451
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+Updates 370, num timesteps 445200, FPS 452
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+Updates 380, num timesteps 457200, FPS 453
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+Updates 390, num timesteps 469200, FPS 454
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+ 
+
+Updates 400, num timesteps 481200, FPS 454
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+Updates 410, num timesteps 493200, FPS 455
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+Updates 420, num timesteps 505200, FPS 456
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+Updates 430, num timesteps 517200, FPS 457
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.89, success rate 0.03
+
+Updates 440, num timesteps 529200, FPS 457
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.99, success rate 0.04
+
+Updates 450, num timesteps 541200, FPS 457
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.99, success rate 0.04
+
+Updates 460, num timesteps 553200, FPS 458
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.99, success rate 0.04
+
+Updates 470, num timesteps 565200, FPS 459
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.99, success rate 0.04
+
+Updates 480, num timesteps 577200, FPS 459
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.99, success rate 0.03
+
+Updates 490, num timesteps 589200, FPS 458
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.99, success rate 0.04
+
+ 
+
+Updates 500, num timesteps 601200, FPS 458
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 510, num timesteps 613200, FPS 458
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 520, num timesteps 625200, FPS 458
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 530, num timesteps 637200, FPS 458
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 540, num timesteps 649200, FPS 458
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 550, num timesteps 661200, FPS 459
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 560, num timesteps 673200, FPS 459
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.97, success rate 0.05
+
+Updates 570, num timesteps 685200, FPS 459
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.97, success rate 0.05
+
+Updates 580, num timesteps 697200, FPS 460
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.06
+
+Updates 590, num timesteps 709200, FPS 459
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+ 
+
+Updates 600, num timesteps 721200, FPS 460
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 610, num timesteps 733200, FPS 459
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.04
+
+Updates 620, num timesteps 745200, FPS 459
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.98, success rate 0.03
+
+Updates 630, num timesteps 757200, FPS 459
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.98, success rate 0.03
+
+Updates 640, num timesteps 769200, FPS 459
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.04
+
+Updates 650, num timesteps 781200, FPS 459
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.04
+
+Updates 660, num timesteps 793200, FPS 459
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.98, success rate 0.03
+
+Updates 670, num timesteps 805200, FPS 459
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 680, num timesteps 817200, FPS 459
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 690, num timesteps 829200, FPS 459
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+ 
+
+Updates 700, num timesteps 841200, FPS 459
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 710, num timesteps 853200, FPS 459
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 720, num timesteps 865200, FPS 460
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 730, num timesteps 877200, FPS 460
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 740, num timesteps 889200, FPS 460
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.05
+
+Updates 750, num timesteps 901200, FPS 460
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.05
+
+Updates 760, num timesteps 913200, FPS 460
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.96, success rate 0.03
+
+Updates 770, num timesteps 925200, FPS 461
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.96, success rate 0.03
+
+Updates 780, num timesteps 937200, FPS 461
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.96, success rate 0.03
+
+Updates 790, num timesteps 949200, FPS 461
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.96, success rate 0.02
+
+ 
+
+Updates 800, num timesteps 961200, FPS 461
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/0.89, success rate 0.01
+
+Updates 810, num timesteps 973200, FPS 461
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/0.89, success rate 0.01
+
+Updates 820, num timesteps 985200, FPS 461
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/0.89, success rate 0.01
+
+Updates 830, num timesteps 997200, FPS 462
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.92, success rate 0.02
+
+Updates 840, num timesteps 1009200, FPS 462
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.04
+
+Updates 850, num timesteps 1021200, FPS 462
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.04
+
+Updates 860, num timesteps 1033200, FPS 462
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.04
+
+Updates 870, num timesteps 1045200, FPS 462
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.98, success rate 0.03
+
+Updates 880, num timesteps 1057200, FPS 462
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.98, success rate 0.03
+
+Updates 890, num timesteps 1069200, FPS 462
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+ 
+
+Updates 900, num timesteps 1081200, FPS 462
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+Updates 910, num timesteps 1093200, FPS 462
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 920, num timesteps 1105200, FPS 462
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 930, num timesteps 1117200, FPS 462
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 940, num timesteps 1129200, FPS 462
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 950, num timesteps 1141200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 960, num timesteps 1153200, FPS 462
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+Updates 970, num timesteps 1165200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+Updates 980, num timesteps 1177200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 990, num timesteps 1189200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+ 
+
+Updates 1000, num timesteps 1201200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 1010, num timesteps 1213200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 1020, num timesteps 1225200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1030, num timesteps 1237200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1040, num timesteps 1249200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1050, num timesteps 1261200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1060, num timesteps 1273200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1070, num timesteps 1285200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1080, num timesteps 1297200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1090, num timesteps 1309200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+ 
+
+Updates 1100, num timesteps 1321200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1110, num timesteps 1333200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1120, num timesteps 1345200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1130, num timesteps 1357200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.98, success rate 0.08
+
+Updates 1140, num timesteps 1369200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1150, num timesteps 1381200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1160, num timesteps 1393200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1170, num timesteps 1405200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 1180, num timesteps 1417200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1190, num timesteps 1429200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+ 
+
+Updates 1200, num timesteps 1441200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1210, num timesteps 1453200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1220, num timesteps 1465200, FPS 463
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1230, num timesteps 1477200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1240, num timesteps 1489200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1250, num timesteps 1501200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1260, num timesteps 1513200, FPS 463
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.04
+
+Updates 1270, num timesteps 1525200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1280, num timesteps 1537200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1290, num timesteps 1549200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+ 
+
+Updates 1300, num timesteps 1561200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 1310, num timesteps 1573200, FPS 463
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 1320, num timesteps 1585200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 1330, num timesteps 1597200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 1340, num timesteps 1609200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 1350, num timesteps 1621200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 1360, num timesteps 1633200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1370, num timesteps 1645200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1380, num timesteps 1657200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 1390, num timesteps 1669200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+ 
+
+Updates 1400, num timesteps 1681200, FPS 464
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.87, success rate 0.02
+
+Updates 1410, num timesteps 1693200, FPS 464
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.87, success rate 0.02
+
+Updates 1420, num timesteps 1705200, FPS 464
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/0.83, success rate 0.01
+
+Updates 1430, num timesteps 1717200, FPS 464
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/0.83, success rate 0.01
+
+Updates 1440, num timesteps 1729200, FPS 464
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/0.83, success rate 0.01
+
+Updates 1450, num timesteps 1741200, FPS 465
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/0.83, success rate 0.01
+
+Updates 1460, num timesteps 1753200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 1470, num timesteps 1765200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 1480, num timesteps 1777200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 1490, num timesteps 1789200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+ 
+
+Updates 1500, num timesteps 1801200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 1510, num timesteps 1813200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1520, num timesteps 1825200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1530, num timesteps 1837200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1540, num timesteps 1849200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1550, num timesteps 1861200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1560, num timesteps 1873200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1570, num timesteps 1885200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 1580, num timesteps 1897200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1590, num timesteps 1909200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+ 
+
+Updates 1600, num timesteps 1921200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 1610, num timesteps 1933200, FPS 464
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/1.00, success rate 0.11
+
+Updates 1620, num timesteps 1945200, FPS 464
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.10
+
+Updates 1630, num timesteps 1957200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1640, num timesteps 1969200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1650, num timesteps 1981200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1660, num timesteps 1993200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 1670, num timesteps 2005200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 1680, num timesteps 2017200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 1690, num timesteps 2029200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+ 
+
+Updates 1700, num timesteps 2041200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1710, num timesteps 2053200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 1720, num timesteps 2065200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 1730, num timesteps 2077200, FPS 463
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 1740, num timesteps 2089200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.05
+
+Updates 1750, num timesteps 2101200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.06
+
+Updates 1760, num timesteps 2113200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.06
+
+Updates 1770, num timesteps 2125200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.06
+
+Updates 1780, num timesteps 2137200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.06
+
+Updates 1790, num timesteps 2149200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.96, success rate 0.07
+
+ 
+
+Updates 1800, num timesteps 2161200, FPS 463
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.96, success rate 0.07
+
+Updates 1810, num timesteps 2173200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.96, success rate 0.07
+
+Updates 1820, num timesteps 2185200, FPS 463
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.06
+
+Updates 1830, num timesteps 2197200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.96, success rate 0.07
+
+Updates 1840, num timesteps 2209200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.06
+
+Updates 1850, num timesteps 2221200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.95, success rate 0.04
+
+Updates 1860, num timesteps 2233200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.94, success rate 0.03
+
+Updates 1870, num timesteps 2245200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.94, success rate 0.03
+
+Updates 1880, num timesteps 2257200, FPS 464
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.94, success rate 0.02
+
+Updates 1890, num timesteps 2269200, FPS 464
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.94, success rate 0.02
+
+ 
+
+Updates 1900, num timesteps 2281200, FPS 464
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.94, success rate 0.02
+
+Updates 1910, num timesteps 2293200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.95, success rate 0.03
+
+Updates 1920, num timesteps 2305200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.95, success rate 0.03
+
+Updates 1930, num timesteps 2317200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.95, success rate 0.03
+
+Updates 1940, num timesteps 2329200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.95, success rate 0.03
+
+Updates 1950, num timesteps 2341200, FPS 464
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.95, success rate 0.02
+
+Updates 1960, num timesteps 2353200, FPS 464
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.95, success rate 0.02
+
+Updates 1970, num timesteps 2365200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.95, success rate 0.03
+
+Updates 1980, num timesteps 2377200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.95, success rate 0.03
+
+Updates 1990, num timesteps 2389200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.95, success rate 0.03
+
+ 
+
+Updates 2000, num timesteps 2401200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.95, success rate 0.04
+
+Updates 2010, num timesteps 2413200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.95, success rate 0.04
+
+Updates 2020, num timesteps 2425200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.95, success rate 0.04
+
+Updates 2030, num timesteps 2437200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.95, success rate 0.04
+
+Updates 2040, num timesteps 2449200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.94, success rate 0.03
+
+Updates 2050, num timesteps 2461200, FPS 465
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.94, success rate 0.02
+
+Updates 2060, num timesteps 2473200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.94, success rate 0.03
+
+Updates 2070, num timesteps 2485200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.94, success rate 0.03
+
+Updates 2080, num timesteps 2497200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.94, success rate 0.03
+
+Updates 2090, num timesteps 2509200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.94, success rate 0.03
+
+ 
+
+Updates 2100, num timesteps 2521200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.99, success rate 0.03
+
+Updates 2110, num timesteps 2533200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.99, success rate 0.03
+
+Updates 2120, num timesteps 2545200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.99, success rate 0.03
+
+Updates 2130, num timesteps 2557200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.99, success rate 0.04
+
+Updates 2140, num timesteps 2569200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.99, success rate 0.04
+
+Updates 2150, num timesteps 2581200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+Updates 2160, num timesteps 2593200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+Updates 2170, num timesteps 2605200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 2180, num timesteps 2617200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 2190, num timesteps 2629200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+ 
+
+Updates 2200, num timesteps 2641200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+Updates 2210, num timesteps 2653200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.05
+
+Updates 2220, num timesteps 2665200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.08
+
+Updates 2230, num timesteps 2677200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.98, success rate 0.07
+
+Updates 2240, num timesteps 2689200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.98, success rate 0.07
+
+Updates 2250, num timesteps 2701200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.98, success rate 0.06
+
+Updates 2260, num timesteps 2713200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 2270, num timesteps 2725200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 2280, num timesteps 2737200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 2290, num timesteps 2749200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+ 
+
+Updates 2300, num timesteps 2761200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.04
+
+Updates 2310, num timesteps 2773200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 2320, num timesteps 2785200, FPS 465
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2330, num timesteps 2797200, FPS 465
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2340, num timesteps 2809200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 2350, num timesteps 2821200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 2360, num timesteps 2833200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 2370, num timesteps 2845200, FPS 465
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2380, num timesteps 2857200, FPS 465
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2390, num timesteps 2869200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+ 
+
+Updates 2400, num timesteps 2881200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2410, num timesteps 2893200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2420, num timesteps 2905200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2430, num timesteps 2917200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 2440, num timesteps 2929200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 2450, num timesteps 2941200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 2460, num timesteps 2953200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+Updates 2470, num timesteps 2965200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.08
+
+Updates 2480, num timesteps 2977200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.08
+
+Updates 2490, num timesteps 2989200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.07
+
+ 
+
+Updates 2500, num timesteps 3001200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 2510, num timesteps 3013200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 2520, num timesteps 3025200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 2530, num timesteps 3037200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 2540, num timesteps 3049200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 2550, num timesteps 3061200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.93, success rate 0.06
+
+Updates 2560, num timesteps 3073200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.93, success rate 0.05
+
+Updates 2570, num timesteps 3085200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 2580, num timesteps 3097200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 2590, num timesteps 3109200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+ 
+
+Updates 2600, num timesteps 3121200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 2610, num timesteps 3133200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 2620, num timesteps 3145200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 2630, num timesteps 3157200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 2640, num timesteps 3169200, FPS 465
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2650, num timesteps 3181200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.10
+
+Updates 2660, num timesteps 3193200, FPS 465
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/1.00, success rate 0.11
+
+Updates 2670, num timesteps 3205200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.10
+
+Updates 2680, num timesteps 3217200, FPS 465
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/1.00, success rate 0.11
+
+Updates 2690, num timesteps 3229200, FPS 465
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/0.98, success rate 0.11
+
+ 
+
+Updates 2700, num timesteps 3241200, FPS 465
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/0.98, success rate 0.11
+
+Updates 2710, num timesteps 3253200, FPS 465
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/0.98, success rate 0.11
+
+Updates 2720, num timesteps 3265200, FPS 465
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/1.00, success rate 0.11
+
+Updates 2730, num timesteps 3277200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.10
+
+Updates 2740, num timesteps 3289200, FPS 464
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/1.00, success rate 0.11
+
+Updates 2750, num timesteps 3301200, FPS 464
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2760, num timesteps 3313200, FPS 464
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 2770, num timesteps 3325200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 2780, num timesteps 3337200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 2790, num timesteps 3349200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+ 
+
+Updates 2800, num timesteps 3361200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 2810, num timesteps 3373200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 2820, num timesteps 3385200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 2830, num timesteps 3397200, FPS 464
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 2840, num timesteps 3409200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.99, success rate 0.08
+
+Updates 2850, num timesteps 3421200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.97, success rate 0.08
+
+Updates 2860, num timesteps 3433200, FPS 464
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/0.97, success rate 0.09
+
+Updates 2870, num timesteps 3445200, FPS 464
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.95, success rate 0.08
+
+Updates 2880, num timesteps 3457200, FPS 464
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/0.97, success rate 0.09
+
+Updates 2890, num timesteps 3469200, FPS 464
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/0.97, success rate 0.10
+
+ 
+
+Updates 2900, num timesteps 3481200, FPS 464
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/0.97, success rate 0.10
+
+Updates 2910, num timesteps 3493200, FPS 464
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/0.99, success rate 0.11
+
+Updates 2920, num timesteps 3505200, FPS 464
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/0.99, success rate 0.10
+
+Updates 2930, num timesteps 3517200, FPS 464
+ Last 100 training episodes: mean/median reward 0.11/0.00, min/max reward 0.00/1.00, success rate 0.12
+
+Updates 2940, num timesteps 3529200, FPS 464
+ Last 100 training episodes: mean/median reward 0.11/0.00, min/max reward 0.00/1.00, success rate 0.12
+
+Updates 2950, num timesteps 3541200, FPS 464
+ Last 100 training episodes: mean/median reward 0.11/0.00, min/max reward 0.00/1.00, success rate 0.12
+
+Updates 2960, num timesteps 3553200, FPS 465
+ Last 100 training episodes: mean/median reward 0.11/0.00, min/max reward 0.00/1.00, success rate 0.12
+
+Updates 2970, num timesteps 3565200, FPS 465
+ Last 100 training episodes: mean/median reward 0.10/0.00, min/max reward 0.00/1.00, success rate 0.10
+
+Updates 2980, num timesteps 3577200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 2990, num timesteps 3589200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+ 
+
+Updates 3000, num timesteps 3601200, FPS 465
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 3010, num timesteps 3613200, FPS 465
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 3020, num timesteps 3625200, FPS 465
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 3030, num timesteps 3637200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 3040, num timesteps 3649200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 3050, num timesteps 3661200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 3060, num timesteps 3673200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 3070, num timesteps 3685200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 3080, num timesteps 3697200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3090, num timesteps 3709200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+ 
+
+Updates 3100, num timesteps 3721200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 3110, num timesteps 3733200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3120, num timesteps 3745200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3130, num timesteps 3757200, FPS 465
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/1.00, success rate 0.02
+
+Updates 3140, num timesteps 3769200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3150, num timesteps 3781200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3160, num timesteps 3793200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3170, num timesteps 3805200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3180, num timesteps 3817200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3190, num timesteps 3829200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+ 
+
+Updates 3200, num timesteps 3841200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 3210, num timesteps 3853200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 3220, num timesteps 3865200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 3230, num timesteps 3877200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 3240, num timesteps 3889200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 3250, num timesteps 3901200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 3260, num timesteps 3913200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 3270, num timesteps 3925200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 3280, num timesteps 3937200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 3290, num timesteps 3949200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+ 
+
+Updates 3300, num timesteps 3961200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 3310, num timesteps 3973200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 3320, num timesteps 3985200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 3330, num timesteps 3997200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 3340, num timesteps 4009200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3350, num timesteps 4021200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3360, num timesteps 4033200, FPS 465
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/1.00, success rate 0.02
+
+Updates 3370, num timesteps 4045200, FPS 466
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/1.00, success rate 0.02
+
+Updates 3380, num timesteps 4057200, FPS 466
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/1.00, success rate 0.01
+
+Updates 3390, num timesteps 4069200, FPS 466
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/1.00, success rate 0.01
+
+ 
+
+Updates 3400, num timesteps 4081200, FPS 466
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/1.00, success rate 0.01
+
+Updates 3410, num timesteps 4093200, FPS 466
+ Last 100 training episodes: mean/median reward 0.01/0.00, min/max reward 0.00/1.00, success rate 0.01
+
+Updates 3420, num timesteps 4105200, FPS 466
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/1.00, success rate 0.02
+
+Updates 3430, num timesteps 4117200, FPS 466
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 3440, num timesteps 4129200, FPS 466
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 3450, num timesteps 4141200, FPS 466
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 3460, num timesteps 4153200, FPS 466
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 3470, num timesteps 4165200, FPS 466
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.97, success rate 0.05
+
+Updates 3480, num timesteps 4177200, FPS 466
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.97, success rate 0.05
+
+Updates 3490, num timesteps 4189200, FPS 466
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.97, success rate 0.05
+
+ 
+
+Updates 3500, num timesteps 4201200, FPS 466
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.99, success rate 0.06
+
+Updates 3510, num timesteps 4213200, FPS 466
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 3520, num timesteps 4225200, FPS 466
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 3530, num timesteps 4237200, FPS 466
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.10
+
+Updates 3540, num timesteps 4249200, FPS 466
+ Last 100 training episodes: mean/median reward 0.09/0.00, min/max reward 0.00/1.00, success rate 0.10
+
+Updates 3550, num timesteps 4261200, FPS 466
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/1.00, success rate 0.09
+
+Updates 3560, num timesteps 4273200, FPS 466
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 3570, num timesteps 4285200, FPS 466
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/1.00, success rate 0.08
+
+Updates 3580, num timesteps 4297200, FPS 466
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 3590, num timesteps 4309200, FPS 466
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+ 
+
+Updates 3600, num timesteps 4321200, FPS 466
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 3610, num timesteps 4333200, FPS 466
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 3620, num timesteps 4345200, FPS 466
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 3630, num timesteps 4357200, FPS 466
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.91, success rate 0.04
+
+Updates 3640, num timesteps 4369200, FPS 466
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.91, success rate 0.03
+
+Updates 3650, num timesteps 4381200, FPS 466
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.91, success rate 0.02
+
+Updates 3660, num timesteps 4393200, FPS 466
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.96, success rate 0.03
+
+Updates 3670, num timesteps 4405200, FPS 465
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.96, success rate 0.02
+
+Updates 3680, num timesteps 4417200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3690, num timesteps 4429200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+ 
+
+Updates 3700, num timesteps 4441200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3710, num timesteps 4453200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3720, num timesteps 4465200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3730, num timesteps 4477200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3740, num timesteps 4489200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3750, num timesteps 4501200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3760, num timesteps 4513200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3770, num timesteps 4525200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3780, num timesteps 4537200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3790, num timesteps 4549200, FPS 465
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.96, success rate 0.03
+
+ 
+
+Updates 3800, num timesteps 4561200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3810, num timesteps 4573200, FPS 465
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.93, success rate 0.02
+
+Updates 3820, num timesteps 4585200, FPS 465
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.93, success rate 0.02
+
+Updates 3830, num timesteps 4597200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.96, success rate 0.04
+
+Updates 3840, num timesteps 4609200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.05
+
+Updates 3850, num timesteps 4621200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.05
+
+Updates 3860, num timesteps 4633200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.05
+
+Updates 3870, num timesteps 4645200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.05
+
+Updates 3880, num timesteps 4657200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.96, success rate 0.06
+
+Updates 3890, num timesteps 4669200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.96, success rate 0.08
+
+ 
+
+Updates 3900, num timesteps 4681200, FPS 465
+ Last 100 training episodes: mean/median reward 0.08/0.00, min/max reward 0.00/0.96, success rate 0.09
+
+Updates 3910, num timesteps 4693200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.96, success rate 0.08
+
+Updates 3920, num timesteps 4705200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.98, success rate 0.08
+
+Updates 3930, num timesteps 4717200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.98, success rate 0.08
+
+Updates 3940, num timesteps 4729200, FPS 465
+ Last 100 training episodes: mean/median reward 0.07/0.00, min/max reward 0.00/0.98, success rate 0.08
+
+Updates 3950, num timesteps 4741200, FPS 465
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/0.98, success rate 0.07
+
+Updates 3960, num timesteps 4753200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 3970, num timesteps 4765200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.06
+
+Updates 3980, num timesteps 4777200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.06
+
+Updates 3990, num timesteps 4789200, FPS 465
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/0.98, success rate 0.06
+
+ 
+
+Updates 4000, num timesteps 4801200, FPS 465
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 4010, num timesteps 4813200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/0.98, success rate 0.05
+
+Updates 4020, num timesteps 4825200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.98, success rate 0.03
+
+Updates 4030, num timesteps 4837200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.98, success rate 0.03
+
+Updates 4040, num timesteps 4849200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/0.98, success rate 0.03
+
+Updates 4050, num timesteps 4861200, FPS 464
+ Last 100 training episodes: mean/median reward 0.02/0.00, min/max reward 0.00/0.96, success rate 0.02
+
+Updates 4060, num timesteps 4873200, FPS 464
+ Last 100 training episodes: mean/median reward 0.03/0.00, min/max reward 0.00/1.00, success rate 0.03
+
+Updates 4070, num timesteps 4885200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+Updates 4080, num timesteps 4897200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 4090, num timesteps 4909200, FPS 464
+ Last 100 training episodes: mean/median reward 0.04/0.00, min/max reward 0.00/1.00, success rate 0.04
+
+ 
+
+Updates 4100, num timesteps 4921200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 4110, num timesteps 4933200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 4120, num timesteps 4945200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.05
+
+Updates 4130, num timesteps 4957200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 4140, num timesteps 4969200, FPS 464
+ Last 100 training episodes: mean/median reward 0.06/0.00, min/max reward 0.00/1.00, success rate 0.07
+
+Updates 4150, num timesteps 4981200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
+
+Updates 4160, num timesteps 4993200, FPS 464
+ Last 100 training episodes: mean/median reward 0.05/0.00, min/max reward 0.00/1.00, success rate 0.06
