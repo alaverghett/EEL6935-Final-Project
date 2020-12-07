@@ -1,8 +1,8 @@
 # EEL6935-Final-Project
-This repository contains instructions for reproducing our resutls for the final project.
+This repository contains instructions for reproducing our results for the final project.
 
 ## Installation instructions
-First insall gym in your python environment, then clone the miniworld environment and follow the instrcutions there to insall the codebase:
+First install gym in your python environment, then clone the miniworld environment and follow the instructions there to install the codebase:
 
 https://github.com/maximecb/gym-miniworld
 
